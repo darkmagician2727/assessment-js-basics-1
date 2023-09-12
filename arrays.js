@@ -43,6 +43,10 @@ const bigOrSmallArray = [1, 99, 42, 69, 102, -10, 159, 352]
 const answer = []
 
 
+
+
+// CODE HERE
+
 for(let i = 0; i < bigOrSmallArray.length; i++){
   if(bigOrSmallArray[i] > 100){
     answer.push("big")
@@ -53,5 +57,3 @@ for(let i = 0; i < bigOrSmallArray.length; i++){
 }
 
 //console.log(answer)
-
-// CODE HERE

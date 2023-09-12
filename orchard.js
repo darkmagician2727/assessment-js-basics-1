@@ -180,9 +180,9 @@ for(let i = 0; i< placeHolderArray.length; i++){
 
 let pinkTons = placeHolderArray.slice()
 
-// console.log(fujiTons)
-// console.log(galaTons)
-// console.log(pinkTons)
+console.log(fujiTons)
+console.log(galaTons)
+console.log(pinkTons)
 
 // console.log(fujiAcres)
 // console.log(galaAcres)
