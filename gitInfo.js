@@ -11,6 +11,8 @@
 
 //CODE HERE
 
+let gitDefinition = "Git is a system that tacks the changes to code as you are developing"
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +20,8 @@
 */
 
 //CODE HERE
+
+let gitHubDefinition = "GitHub is an online collection of git repositories. They can be public or private. "
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -27,6 +31,8 @@
 
 //CODE HERE
 
+let gitInitDefinition = "Git Init is the command used to creat a new git repository"
+
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,6 +40,8 @@
 */
 
 //CODE HERE
+
+let gitCloneDefinition = "Git clone is the command used to clone or copy and exisiting repository"
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -43,6 +51,8 @@
 
 //CODE HERE
 
+let gitStatusDefinition = "Git status is the command used to show the changes to the current directory"
+
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -51,6 +61,9 @@
     Create another variable called 'gitAddCode'.  
     It should be a string containing the code to add all files.
 */
+
+let gitAddDefinition = "Git add is the command used to add an exisiting file to a repository"
+let gitAddCode = "git add . "
 
 //CODE HERE
 
@@ -65,6 +78,9 @@
 
 //CODE HERE
 
+let gitCommitDefinition = "Git commit is the command that creates a snapshot of the current repository"
+let gitCommitCode = "git commit -am 'commit message' "
+
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +89,5 @@
 */
 
 //CODE HERE
+
+let gitPushDefinition = "Git push is the command that allows you push a local repository to a remote or online repository"
